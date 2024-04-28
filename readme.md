@@ -40,3 +40,7 @@ Deve ser executado na mesma pasta do arquivo main.py
 ## Para executar
 
 Para executar é necessário que a imagem esteja na mesma pasta que main.py
+
+## O botão que altera as coordenadas
+
+Neste código o botão que tem as coordenadas alteradas é "btnEleNao"
